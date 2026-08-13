@@ -1,3 +1,0 @@
-[submodule "send-loki"]
-	path = send-loki
-	url = https://github.com/jjohnson83853/send-loki.git
